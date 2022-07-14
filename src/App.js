@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <input type="number" placeholder="Enter a number"/>
+    <input type="number" className="input-box-style" placeholder="Enter a number"/>
   );
 }
 
